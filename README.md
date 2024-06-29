@@ -1,8 +1,7 @@
 ## Hi!! I'm Gabrielle 👋
 - 🌱  I’m currently learning Python in the "Python for Data Analysis" course by Reprograma
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I've been vegan for 4 years and vegetarian since I was 12.
--  I'm Brazilian, but I'm currently living in Massachusetts (USA) as I study at Babson College to obtain a B.B.A. with a concentration in Business Analytics and Technological Entrepreneurship.
+- ⚡ Fun fact: I'm Brazilian, but I'm currently living in Massachusetts (USA) as I study at Babson College to obtain a B.B.A. with a concentration in Business Analytics and Technological Entrepreneurship.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
