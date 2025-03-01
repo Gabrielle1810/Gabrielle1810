@@ -1,5 +1,4 @@
 ## Hi!! I'm Gabrielle 👋
-- 🌱  I’m currently learning Python in the "Python for Data Analysis" course by Reprograma
 - 😄 Pronouns: She/Her/Hers
 
 
